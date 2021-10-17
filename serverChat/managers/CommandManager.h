@@ -7,7 +7,7 @@
 
 
 #include <vector>
-#include "../models/SimpleCommand.h"
+#include <iostream>
 
 class CommandManager {
 
