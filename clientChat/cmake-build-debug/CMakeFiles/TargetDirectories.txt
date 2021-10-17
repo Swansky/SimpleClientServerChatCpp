@@ -1,0 +1,3 @@
+/Users/swansky/Desktop/Projects/client-serverChat/clientChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/swansky/Desktop/Projects/client-serverChat/clientChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/swansky/Desktop/Projects/client-serverChat/clientChat/cmake-build-debug/CMakeFiles/clientChat.dir

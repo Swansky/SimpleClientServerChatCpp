@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/swansky/Desktop/Projects/client-serverChat/serverChat/managers/CommandManager.cpp
+CommandManager.h
+/Users/swansky/Desktop/Projects/client-serverChat/serverChat/managers/CommandManager.h
+
+/Users/swansky/Desktop/Projects/client-serverChat/serverChat/managers/CommandManager.h
+vector
+-
+../models/SimpleCommand.h
+/Users/swansky/Desktop/Projects/client-serverChat/serverChat/models/SimpleCommand.h
+
+/Users/swansky/Desktop/Projects/client-serverChat/serverChat/models/SimpleCommand.h
+string
+-
+
